@@ -1,0 +1,52 @@
+print("     l     l     l")
+print("     l     l     l")
+print("     l     l     l")
+print("---------------------")
+print("     l     l     l")
+print("     l     l     l")
+print("     l     l     l")
+print("---------------------")
+print("     l     l     l")
+print("     l     l     l")
+print("     l     l     l")
+print("---------------------")
+
+
+print("The cat in the hat")
+
+print("The cat in the hat".upper())
+# method changes string from lowercase to uppercase
+
+print("The cat in the hat".lower())
+# method chnages string to lowercase
+
+print("The cat in the hat".capitalize())
+# method capitalises the first word of the sentance(String)- string doesn't jave concept of grammatical rules
+
+print("The cat in the hat".count("the"))
+# method counts how many times the word occurs for example 'the' occurs only once. need quotations within brackets of word trying to find.
+
+print("The cat in the hat".find("in"))
+# method tells you WHERE to find the work 'in'- in this case following zero-index word 'in' is 9 characters in
+
+print("The cat in the hat".replace("hat","bag"))
+# method replaces whatever word you would like to replace with another e.g hat to bag
+
+print("The cat in the hat".strip("The"))
+# method removes any words from the sentence. Note:Main purpose Get's rid of spaces but only at the start or end of the sting 
+
+print("12345".isnumeric())
+
+print("hello, my name is Gemma, I am 26 years old".split(","))
+# method, seperates each work after commor 
+
+print("#banana#strawberry#cherry#grapes".split("#"))
+# method- splits string into list format
+
+print("The cat in the hat".swapcase())
+
+print("All around the world".upper()[7])
+
+print("All Around The World"[7].upper())
+
+

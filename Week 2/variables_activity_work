@@ -1,0 +1,26 @@
+#Activity 1
+user_name = input("what is your name?")
+print(f"My name is {user_name}")
+
+user_age = input(" How old are you")
+print(f"I am {user_age} years old")
+
+favourite_colour = input(" What is your favourite colour?")
+print(f" My favourite colour is {favourite_colour}")
+
+
+#Activity 2
+#casting
+print("Type in two numbers to multiply them")
+
+num1 = int(input("Number 1:   >   "))
+num2 = int(input("Number 2:   >   "))
+
+print(num1*num2)
+print(num1+num2)
+print(num1-num2)
+print(num1/num2)
+print(num1**num2)
+print(num1%num2)
+
+#Activity 3
