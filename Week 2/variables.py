@@ -19,7 +19,7 @@
 # #concatination- join 2 strings together- doesn't allow us to use other data type but strings. For stings to strings. can't accomodate interger (whole numbers)
 
 # print("Hello my name is {} and I am {} years old".format(my_name, my_age))
-# #.format() string method - template strings
+# # .format() string method - template strings. 
 
 # print(f"Hello my name is {my_name} and I am {my_age} years old")
 # #Format- f string - Logic of dot format method but in a readable format
